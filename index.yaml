@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ens-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-01T01:36:49.3073227+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 752f6d4a39ff7f3af36c8cfa2f2a607d1994d58fe6dd7e1a527ec71e5c6b2f7f
+    name: ens-charts
+    type: application
+    urls:
+    - https://github.com/hsinelghoul/ens-charts/ens-charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-01T01:36:49.3073227+01:00"
